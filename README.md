@@ -5,4 +5,4 @@ This App uses FireBase to authenticate user and it has login and signup page. On
 
 
 <img src="https://i.imgur.com/9nWBDlN.jpg" width="300">   <img src="https://i.imgur.com/jgAjFyr.jpg" width="300">  
-<img src="https://i.imgur.com/toCQGxn.jpg">   <img src="https://i.imgur.com/WLlSU5q.jpg" width="300"> 
+<img src="https://i.imgur.com/toCQGxn.jpg" width="300">   <img src="https://i.imgur.com/WLlSU5q.jpg" width="300"> 
